@@ -1,4 +1,3 @@
 # pypm
-Personal pet project for portfolio management
 
-	> Je suis un BG
+Module to play with a financial portfolio. 
